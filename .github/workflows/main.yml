@@ -1,16 +1,18 @@
 name: Generate Datas
 
 on:
-  schedule: # execute every 12 hours
+  schedule:
     - cron: "* */12 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation - Atualizado para v3 para aceitar o Dark Mode
       - uses: Platane/snk@v3
         id: snake-gif
         with:
@@ -19,7 +21,6 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Salvando as imagens geradas na branch output
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
