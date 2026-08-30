@@ -1,3 +1,5 @@
+<div align="center">
+  
 ## Oii, sou a Isabella Christina <3
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ichristinacarvalho&theme=dracula)
@@ -18,3 +20,5 @@
 </div>
 
 ![Snake animation](https://raw.githubusercontent.com/ichristinacarvalho/ichristinacarvalho/output/github-contribution-grid-snake-dark.svg?v=1)
+
+</div>
