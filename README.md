@@ -17,4 +17,4 @@
   <a href="https://www.linkedin.com/in/isabella-christina-ba4949419/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/ichristinacarvalho/ichristinacarvalho/blob/output/github-contribuition-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/ichristinacarvalho/ichristinacarvalho/output/github-contribution-grid-snake.svg)
