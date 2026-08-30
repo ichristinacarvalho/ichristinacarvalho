@@ -10,6 +10,7 @@
   <img align="center" alt="Bella-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bella-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bella-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="right" alt="Bella-pic" height="150" style="border-radius:50px;" src="https://github.com/user-attachments/assets/3c75c15b-cc6e-458d-9812-6114e4a59a78">
 </div>
 
 ##
