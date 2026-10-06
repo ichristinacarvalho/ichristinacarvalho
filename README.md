@@ -2,6 +2,8 @@
   
 ## Oii, sou a Isabella Christina <3
 
+##Sou desenvolvedora em formação com foco em desenvolvimento web. Atualmente estudo HTML, CSS e JavaScript e venho desenvolvendo projetos práticos para consolidar meus conhecimentos em interfaces, manipulação do DOM, consumo de APIs e armazenamento de dados.
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=ichristinacarvalho&theme=dracula)
 
 ##
