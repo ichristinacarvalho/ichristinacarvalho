@@ -2,7 +2,7 @@
   
 ## Olá, sou a Isabella Christina
 
-Sou desenvolvedora em formação Full Stack Java.
+Desenvolvedora Full Stack Java em formação
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ichristinacarvalho&theme=dracula)
 
