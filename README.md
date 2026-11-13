@@ -31,7 +31,7 @@ até a causa raiz e a documentar tudo, hoje aplico isso no código.
 | Projeto | O que é | Stack |
 |---|---|---|
 | [Vestígio Literário](https://vestigio-literario.vercel.app) | Plataforma literária com newsletter e e-mail automático | JS, SCSS, Firestore, Vercel Functions, Nodemailer |
-| [Atherian Tasks](https://ichristinacarvalho.github.io/Atherian-Tasks-/) | To-do gamificado com login | JS, Firebase Auth/Firestore |
+| [Atherian Tasks](https://ichristinacarvalho.github.io/Atherian-Tasks/) | To-do gamificado com login | JS, Firebase Auth/Firestore |
 | [Validador de Despacho](https://ichristinacarvalho.github.io/Validador-de-despacho-operativo/) | Checagem de limites operacionais de despacho de energia | JS, LocalStorage |
 | [Athera Code](https://ichristinacarvalho.github.io/athera-code/) | Site institucional responsivo | HTML, SCSS, JS, Firebase |
 
