@@ -23,6 +23,7 @@ até a causa raiz e a documentar tudo, hoje aplico isso no código.
       <img align="center" alt="Bella-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>
        <img align="center" alt="Bella-Vercel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"/>
        <img align="center" alt="Bella-n8n" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/n8n/n8n-original.svg"/>
+         <img align="center" alt="Bella-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
 </div>
 
 ##
